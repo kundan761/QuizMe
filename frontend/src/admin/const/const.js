@@ -1,3 +1,3 @@
 // const.js
 
-export const requrl = 'https://logic-lakshan-2345.onrender.com/';
+export const requrl = 'https://quizme-3kth.onrender.com/';
